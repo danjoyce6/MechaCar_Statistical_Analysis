@@ -10,6 +10,7 @@
   - ![Lot_Table](https://user-images.githubusercontent.com/88444529/145109599-dfa930da-2900-4cc9-9cbb-a37ce8883e51.PNG)
   - ![image](https://user-images.githubusercontent.com/88444529/145110587-409b6399-9bd0-4d12-9d8a-f9c6be773caf.png)
 ## T-Tests on Suspension Coils
+### Analysis
   - One sample t-tests were run on the PSI suspension coil data against the population mean of 1500.  T-tests were run for the overall including all three lots against the population mean of 1500.  The p-value of 0.06 is greater than 0.05 and thus we fail to reject the null hypothesis and the population means are not statistically different.  Subsets were made for the samples in Lot1, Lot2, and Lot3.  Lot1 and Lot2 had p-values greater than 0.05 and thus we fail to reject the null hypothesis and these samples are considered not statistically different from the population mean of 1500.  A t-test was run for Lot3 against the population mean of 1500 and produced a p-value of 0.04 and we reject the null hypothesis and thus the sample is considered stastically different from the population mean of 1500.
   - Overall t-test
   - ![image](https://user-images.githubusercontent.com/88444529/145223782-56fff1f7-0317-4896-a8f3-fc289436fe81.png)
