@@ -27,6 +27,9 @@ dplyr
   - ![image](https://user-images.githubusercontent.com/88444529/145223941-1f735be9-0daf-4152-a8f2-70263859208a.png)
   - Lot3 t-test
   - ![image](https://user-images.githubusercontent.com/88444529/145223918-9c4dc744-3f39-4323-83f6-8d58f26015f2.png)
-## Conclusion
-## Study Design: MechaCar vs Competition
+
+## Hypothetical Study Design Proposal: MechaCar vs Competition
 Consumers care about many variables when buying a car including cost, fuel efficiency, maintenance cost, safety rating, and horse power to name a few.  The purpose of this proposed statistical study is to see how the MechaCar compares in key metrics versus the competition from other manufacturers.  For the purposes of this study there will be focus on two of those key metrics, cost and fuel efficiency.  The null hypothesis will state that there is no difference between sample means of cost and fuel efficiency between MechaCar and competing manufacturers.  The alternative hypothesis will state that there is atleast a 5% difference in cost between the MechaCar and other manufacturers by year of production.  The alternative hypothesis for the fuel efficiency analysis will state that there is atleast a 5% increase in fuel efficiency for Mecha Cars compared to other manufacturers by year of production.  T-tests will be used to compare sample means between MechaCar and other manufacturers for cost and fuel efficiency.  This will allow analysis of the sample means to see if they are statistically different from each other.  Data that would be needed from both MechaCar and other manufacturers would be fuel efficiency for all car models for each year in the analysis as well as the cost of each vehicle.  This will allow for analysis and completion of the study design made here.
+
+### Contact Information
+email: danjoyce6@gmail.com
